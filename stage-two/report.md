@@ -44,7 +44,7 @@ Colour selection is important for visualising and interpreting datasets using pl
 
 <a name="_hlk176856820"></a>Clustering rows (genes) and columns (samples) in the heatmap is important for data analysis as it helps to identify patterns or relationships within the dataset, providing a better visual representation of the genes and samples with similar characteristics.<sup>6</sup>
 
-**
+
 
 **Tasks 3 & 4** - Subset genes that are significantly upregulated and significantly downregulated. 
 
@@ -61,9 +61,7 @@ Visualise the fold change and negative log10 of p-values.
 \- The p-value cut-off was set as 0.05, with log2fold-change of 21 to 3 for significantly upregulated genes and -22 to -3 for significantly downregulated genes.
 
 ![image](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-two/results/Task3&4-output3.png?raw=true)
-
 ![image](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-two/results/Task3&4-output4.png?raw=true)
-
 ![image](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-two/results/Task3&4-output5.png?raw=true)
 
 
