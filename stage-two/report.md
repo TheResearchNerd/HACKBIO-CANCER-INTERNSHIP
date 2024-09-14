@@ -1,4 +1,4 @@
-# **GENE EXPRESSION ANALYSIS, VISUALISATION AND DOWNSTREAM FUNCTIONAL ENRICHMENT ANALYSIS OF GLIOBLASTOMA DATASET**
+# **Gene Expression Analysis, Visualisation and Downstream Functional Enrichment Analysis of A Glioblastoma Dataset**
 **Team:** Biomarker Hunters and Data Scientists
 
 **Authors (@slack):** Oluwatobi Ogundepo (@Oluwatobi), Abdulrahman Walid Elbagoury (@Willeau), Olabode Kaosara Omowunmi (@TheResearchNerd), Awoleke Ifeoluwa (@Ifeolu01), Henry Momanyi (@Henry), Benedict Orile Ajunku (@orile),** Olajumoke Oladosu (@Jumblosu), Mary Dhevanayagam (@Shanu)
@@ -7,7 +7,7 @@
 
 **Link to the dataset:** <https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv>
 
-## **GLIOBLASTOMA**
+## **Glioblastoma**
 Glioblastoma is the most common and aggressive primary brain tumour in adults, characterised by necrosis and endothelial proliferation.<sup>1</sup> It may arise from specific point mutations of the genes encoding IDH (isocitrate dehydrogenase).<sup>2</sup> Typical molecular changes in glioblastoma include mutations in genes regulating receptor tyrosine kinase (RTK)/ RAS/phosphoinositide 3-kinase (PI3K), p53, and retinoblastoma protein signalling.<sup>3</sup>
 
 In this task, a gene expression dataset for glioblastoma was visualized and interpreted to generate a heatmap and downstream functional enrichment analysis was performed. This helped to understand and interpret patterns of gene expression and the biological significance of differentially expressed genes (DEGs). The task involved data preprocessing, visualization, and interpretation of functional enrichment results.
