@@ -1,4 +1,4 @@
-﻿# **Gene Expression Analysis, Visualisation and Downstream Functional Enrichment Analysis of a Glioblastoma Dataset**
+﻿# **Gene Expression Analysis, Visualisation and Downstream Functional Enrichment Analysis of A Glioblastoma Dataset**
 ## **Task Objective**
 In this task, a gene expression dataset for glioblastoma was visualized and interpreted to generate a heatmap and downstream functional enrichment analysis was performed. This helped to understand and interpret patterns of gene expression and the biological significance of differentially expressed genes (DEGs). The task involved data preprocessing, visualization, and interpretation of functional enrichment results.
 
