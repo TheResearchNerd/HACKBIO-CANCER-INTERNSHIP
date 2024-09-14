@@ -80,7 +80,7 @@ fold_change
 p_values <- apply(glioblastoma_data, 1, function(row) {
   t.test(row[1:5], row[6:10])$p.value})
 
-# Visualize the fold-change and negative log of p-values
+# Visualize the fold-change and negative log10 of p-values
 plot(fold_change, -log10(p_values), 
      xlab = "Fold Change", ylab = "-Log10 adjusted p-value", 
      main = "Volcano Plot of Glioblastoma Data", pch = 19, 
