@@ -68,7 +68,7 @@ Visualise the fold change and negative log10 of p-values.
 **Task 5** - Perform functional enrichment analysis with either [ShinyGO](http://bioinformatics.sdstate.edu/go/), [GOrilla](https://cbl-gorilla.cs.technion.ac.il/) or [PANTHER](https://geneontology.org/).
 
 - <a name="_hlk176856865"></a>The gene IDs were submitted to ShinyGO
-- The p-value cutoff was set at 0.05.
+- The p-value cutoff was set at 0.05
 
 ![image](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-two/results/Task5-output.PNG?raw=true)
 
