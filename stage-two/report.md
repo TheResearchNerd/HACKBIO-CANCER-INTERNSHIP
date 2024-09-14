@@ -1,7 +1,7 @@
 # **Gene Expression Analysis, Visualisation and Downstream Functional Enrichment Analysis of A Glioblastoma Dataset**
 **Team:** Biomarker Hunters and Data Scientists
 
-**Authors (@slack):** Oluwatobi Ogundepo (@Oluwatobi), Abdulrahman Walid Elbagoury (@Willeau), Olabode Kaosara Omowunmi (@TheResearchNerd), Awoleke Ifeoluwa (@Ifeolu01), Henry Momanyi (@Henry), Benedict Orile Ajunku (@orile),** Olajumoke Oladosu (@Jumblosu), Mary Dhevanayagam (@Shanu)
+**Authors (@slack):** Oluwatobi Ogundepo (@Oluwatobi), Abdulrahman Walid Elbagoury (@Willeau), Olabode Kaosara Omowunmi (@TheResearchNerd), Awoleke Ifeoluwa (@Ifeolu01), Henry Momanyi (@Henry), Benedict Orile Ajunku (@orile), Olajumoke Oladosu (@Jumblosu), Mary Dhevanayagam (@Shanu)
 
 **Link to the code:** [hackbio-cancer-internship/stage-two/code.R at main · marydhevanayagam/hackbio-cancer-internship (github.com)](https://github.com/marydhevanayagam/hackbio-cancer-internship/blob/main/stage-two/code.R)
 
