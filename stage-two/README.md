@@ -4,7 +4,7 @@ In this task, a gene expression dataset for glioblastoma was visualized and inte
 
 ## **Steps involved in gene expression analysis**
 - <a name="_hlk176856654"></a>Download the following dataset: <https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv>
-- Generate a heatmap for the entire dataset. Use a diverging and sequential color palette to generate two color variants of the same heatmap using the **heatmap.2()** function from the [gplots](https://cran.r-project.org/web/packages/gplots/index.html) package in R.** 
+- Generate a heatmap for the entire dataset. Use a diverging and sequential color palette to generate two color variants of the same heatmap using the **heatmap.2()** function from the [gplots](https://cran.r-project.org/web/packages/gplots/index.html) package in R. 
 
 - <a name="_hlk176856752"></a>With the same heatmap, generate a variant of your heatmap with **dendrograms** to:
 1. Cluster the genes (rows) alone,
